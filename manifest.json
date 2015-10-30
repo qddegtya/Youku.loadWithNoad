@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "Youku.loadWithNoad",
+  "version": "1.0.0",
+
+  "description": "Youku.loadWithNoad",
+
+  "content_scripts": [
+    {
+      "matches": ["https://v.youku.com/*", "http://v.youku.com/*"],
+      "js": ["noad.js"]
+    }
+  ]
+}
