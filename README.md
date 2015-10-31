@@ -24,4 +24,5 @@ chrome://extensions/
 ```
 
 Drag Youku.loadWithNoad.crx to your chrome
-Enjoy!
+
+Then Enjoy!
